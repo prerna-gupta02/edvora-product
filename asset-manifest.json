@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edvora-product/static/css/main.5614d6e6.css",
+    "main.js": "/edvora-product/static/js/main.096e174b.js",
+    "index.html": "/edvora-product/index.html",
+    "main.5614d6e6.css.map": "/edvora-product/static/css/main.5614d6e6.css.map",
+    "main.096e174b.js.map": "/edvora-product/static/js/main.096e174b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5614d6e6.css",
+    "static/js/main.096e174b.js"
+  ]
+}
