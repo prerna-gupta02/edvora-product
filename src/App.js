@@ -63,7 +63,7 @@ function App() {
 
   const handleChangeProduct = (e) => {
     setMain({ ...main, selectedProduct: [e.target.value] })
-    setMain({ ...main, selectedState: main.data.filter(i => i.product_name === e.target.value).map(s => s.address.state) })
+    // setMain({ ...main, selectedState: main.data.filter(i => i.product_name === e.target.value).map(s => s.address.state) })
     // setMain(...main, {
     //   stateNames: resultS
     // })
